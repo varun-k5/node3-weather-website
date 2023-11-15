@@ -1,4 +1,4 @@
-console.log('client side javascript is loaded')
+//console.log('client side javascript is loaded')
 
 //practise
 // fetch('http://puzzle.mead.io/puzzle').then((response)=>{
